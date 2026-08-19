@@ -12,7 +12,7 @@ A simple console-based Tic-Tac-Toe game built using **Java** and basic **OOP con
 ### Run
 
 ```bash
-javac *.java
+javac Main.java
 java Main
 ```
 
